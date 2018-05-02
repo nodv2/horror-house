@@ -1,2 +1,2 @@
 # horror-house
-First game set in an abandoned housr
+First game set in an abandoned house
